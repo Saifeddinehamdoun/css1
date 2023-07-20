@@ -1,0 +1,20 @@
+ul{
+    display: inline-flex;
+}
+li{
+    margin: 20px;
+    list-style-type: none;
+    color: azure;
+}
+nav{
+    background-color: blue;
+}
+body{
+    font-family: 'Roboto';
+}
+.saif1{
+    background-color: green;
+}
+#saif2{
+    background-color: aquamarine;
+}
